@@ -1,0 +1,1 @@
+# QA test excesices which includes ui automated test cases and api automated tes cases

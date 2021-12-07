@@ -1,0 +1,10 @@
+com\slotegrator\ui\stepDefinitions\ConfProperties.class
+com\slotegrator\ui\stepDefinitions\modalPages\ProfilePage.class
+com\slotegrator\ui\stepDefinitions\constants\AdminPanel.class
+com\slotegrator\ui\stepDefinitions\modalPages\PlayersListPage.class
+com\slotegrator\ui\stepDefinitions\ContextSteps.class
+com\slotegrator\ui\stepDefinitions\uiTests\SortPlayersTestSteps.class
+com\slotegrator\ui\stepDefinitions\modalPages\LoginPage.class
+com\slotegrator\ui\stepDefinitions\uiTests\LoginTestSteps.class
+com\slotegrator\ui\stepDefinitions\uiTests\PlayersListTestSteps.class
+com\slotegrator\ui\runners\TestRunner.class
